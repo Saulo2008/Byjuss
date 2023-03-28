@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    min-height: 100%;
+    background: linear-gradient(90deg, #00dbde 0%, #9d0d9f 100%);
+    display: flex;
+    justify-content: center;
+}
+h1{
+
+    color: midnightblue;
+    font-size: 60px;
+}
+.item{
+background-color: #fafafa;
+border-radius:  10px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+width: 100%;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+                                                                               
